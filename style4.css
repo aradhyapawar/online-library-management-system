@@ -1,0 +1,81 @@
+
+header {
+    background-color: #39e75f;
+    color: #fff;
+    padding: 20px 0;
+}
+
+header .logo h1 {
+    text-align: center;
+    font-size: 24px;
+}
+.contact-form {
+    padding: 50px 20px;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+.contact-form h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+form {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    font-size: 18px;
+    display: block;
+    margin: 15px 0 5px;
+}
+
+input[type="text"], input[type="email"], textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    font-size: 16px;
+}
+
+textarea {
+    resize: vertical;
+}
+
+button.btn {
+    padding: 10px 20px;
+    background-color: #39e75f;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button.btn:hover {
+    background-color: #39e75f;
+}
+
+.success-message {
+    color: green;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.error-message {
+    color: red;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+footer {
+    background-color: #39e75f;
+    color: #fff;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 20px;
+}

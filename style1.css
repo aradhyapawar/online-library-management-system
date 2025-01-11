@@ -1,0 +1,73 @@
+/* Header styles */
+header {
+    background-color: #39e75f;
+    color: #fff;
+    padding: 20px 0;
+}
+
+header .logo h1 {
+    text-align: center;
+    font-size: 24px;
+}
+
+/* Get Started page styles */
+.get-started {
+    padding: 50px 20px;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+.get-started-content {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.get-started-content h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.get-started-content p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.get-started-content ol {
+    text-align: left;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.get-started-content ol li {
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+.get-started-content a.btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #39e75f;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.get-started-content a.btn:hover {
+    background-color: #39e75f;
+}
+
+/* Footer styles */
+footer {
+    background-color: #39e75f;
+    color: #fff;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 20px;
+}
+
